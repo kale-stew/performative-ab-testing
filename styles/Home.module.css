@@ -56,6 +56,26 @@
   font-size: 1.5rem;
 }
 
+.buttons {
+  display: flex;
+  gap: 5px;
+}
+
+.buttons button {
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  background-color: #0070f3;
+  border: none;
+  border-radius: 2px;
+  padding: 0.5rem;
+}
+
+.buttons button:hover {
+  background-color: gray;
+}
+
 .code {
   background: #fafafa;
   border-radius: 5px;
