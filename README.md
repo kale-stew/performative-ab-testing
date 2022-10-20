@@ -2,6 +2,8 @@
 
 Source code for a demo presented at [Next.js Conf 2022](https://nextjs.org/conf).
 
+<!-- vercel.fyi/ab-edge-example -->
+
 > Performative Experimentation: A Deep Dive
 > Presented Oct 25, 2022
 
